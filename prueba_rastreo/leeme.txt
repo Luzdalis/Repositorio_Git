@@ -1,0 +1,1 @@
+texto de prueba num arquivo criado por comando echo

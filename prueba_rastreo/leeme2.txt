@@ -1,0 +1,2 @@
+Adicionando texto en arquivo 2
+utilizando el comando cat
