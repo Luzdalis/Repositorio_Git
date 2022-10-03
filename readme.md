@@ -44,3 +44,6 @@ o que foi que eu aprendi aqui?
 ## Aula 9
 
 o que foi que eu aprendi aqui?
+
+![engajamento](https://user-images.githubusercontent.com/80925804/193677018-fd00bb18-b861-44e2-a792-0b6df4f5a25f.png)
+
